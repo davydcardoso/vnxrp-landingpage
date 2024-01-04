@@ -37,6 +37,16 @@ function App() {
       </div>
 
 
+      <a
+        target='_blank'
+        rel="noreferrer"
+        href='https://cfx.re/join/ye54p9' 
+        className='w-[200px] h-[45px] flex items-center justify-center text-white text-[20px] font-bold bg-[#3EEEA4] rounded-md hover:cursor-pointer hover:scale-105 ease-in-out duration-100 z-50 '        
+      >
+        Join Server
+      </a>
+
+
 
 
       {/* <p className='text-[40px] text-primary font-extrabold font-aldrich  flex items-baseline gap-2' >
@@ -73,5 +83,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
